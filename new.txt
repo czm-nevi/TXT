@@ -1,0 +1,4 @@
+	name: Khvostantseva Anastasia Maksimovna
+	age : 25
+	pets number: 0
+	expected salary: 600$
